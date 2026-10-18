@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ruta: app/src/main/res/drawable/gradient_top.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#CC0D1117"
+        android:endColor="#000D1117"
+        android:angle="270"/>
+</shape>

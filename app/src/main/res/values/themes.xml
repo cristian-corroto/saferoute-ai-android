@@ -1,0 +1,33 @@
+<!-- SafeRouteAI — themes.xml DARK MODE -->
+<!-- Ruta: app/src/main/res/values/themes.xml -->
+
+<resources>
+
+    <style name="Theme.SafeRouteAI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1DDB94</item>
+        <item name="colorPrimaryVariant">#13A06D</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#378ADD</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:windowBackground">#0D1117</item>
+        <item name="android:statusBarColor">#0D1117</item>
+        <item name="android:navigationBarColor">#161C27</item>
+        <item name="colorSurface">#161C27</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+    </style>
+
+    <!-- Chip día — dark mode -->
+    <style name="DayChipDark">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:layout_marginHorizontal">2dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@drawable/chip_text_color_dark</item>
+        <item name="android:background">@drawable/chip_bg_dark</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
+</resources>
