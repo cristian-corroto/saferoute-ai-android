@@ -8,7 +8,7 @@
 
 <br>
 
-[![Descargar APK](https://img.shields.io/badge/descargar-APK-0D1117?style=for-the-badge&labelColor=1DDB94)](https://saferouteai-app.netlify.app/)
+[![Descargar APK](https://img.shields.io/badge/descargar-APK-0D1117?style=for-the-badge&labelColor=1DDB94)](https://saferouteai-app.pages.dev/)
 [![Backend](https://img.shields.io/badge/backend-FastAPI-0D1117?style=for-the-badge&labelColor=161C27)](https://github.com/cristian-corroto/saferoute-ai-backend)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-0D1117?style=for-the-badge&logo=kotlin&logoColor=B39DFF)
@@ -48,14 +48,14 @@ SafeRouteAI es mi **proyecto final del ciclo de Desarrollo de Aplicaciones Multi
 
 <table>
 <tr>
-<td width="55%"><a href="https://saferouteai-app.netlify.app/"><img src=".github/readme/web.webp" alt="Web de presentación"></a></td>
+<td width="55%"><a href="https://saferouteai-app.pages.dev/"><img src=".github/readme/web.webp" alt="Web de presentación"></a></td>
 <td width="45%" valign="middle">
 
 ### Web de presentación
 
 Explica cómo funciona la app y sus tres niveles de alerta, y permite **descargar el APK** sin pasar por una tienda de aplicaciones.
 
-[**saferouteai-app.netlify.app →**](https://saferouteai-app.netlify.app/)
+[**saferouteai-app.pages.dev →**](https://saferouteai-app.pages.dev/)
 
 </td>
 </tr>
@@ -124,4 +124,4 @@ La app usa el servidor de demostración definido en `app/src/main/java/com/examp
 
 Desarrollada por **Cristian Corroto** como proyecto final de DAM, con apoyo intensivo de IA en casi todas sus partes. Yo decidí qué debía hacer la app, probé cada funcionalidad y la llevé hasta un APK instalable.
 
-[Descargar el APK](https://saferouteai-app.netlify.app/) · [Portfolio](https://cristian-corroto.netlify.app) · [LinkedIn](https://www.linkedin.com/in/cristian-corroto)
+[Descargar el APK](https://saferouteai-app.pages.dev/) · [Portfolio](https://cristian-corroto.pages.dev) · [LinkedIn](https://www.linkedin.com/in/cristian-corroto)
